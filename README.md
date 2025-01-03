@@ -1,1 +1,2 @@
 # Genetic- and culture-based tools for mechanistic study of *Bacteroides fragilis*
+The relatively limited availability of genetic tools has hampered mechanistic studies of Bacteroides fragilis, an opportunistic anaerobe that constitutes 1-5% of the gut microbiota in healthy humans. Here we describe novel vectors for B. fragilis gene deletion and expression as well as a semi-defined media for cultivation of B. fragilis str. P207.
